@@ -367,7 +367,7 @@ section:after {
  ------------------------------------------------------------------*/
 
 #home {
-    background-image: url("../images/bg/bg1.jpg");
+    /*background-image: url("../images/bg/bg1.jpg");*/
     background-size: cover;
     padding: 100px 0 0;
 }
@@ -488,7 +488,7 @@ section:after {
 -----------------------------------------------------------------*/
 
 #video {
-    background: url("../images/video/video.jpg");
+    /*background: url("../images/video/video.jpg");*/
     background-size: cover;
     color: #FFF;
     padding: 50px 0;
