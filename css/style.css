@@ -1109,7 +1109,7 @@ label {
 @media (max-width: 768px) {
 
     #home {
-        padding: 125px 0;
+        padding: 0px 0;
     }
     .box-container {
         width: 360px;
@@ -1121,7 +1121,7 @@ label {
 @media (max-width: 479px) {
 
     #home {
-        padding: 100px 0;
+        padding: 0px 0;
     }
     .box-container {
         width: 280px;
